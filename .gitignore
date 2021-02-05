@@ -21,4 +21,6 @@ yarn-error.log*
 *.sln
 *.sw?
 
-dist/
+# Lock
+yarn.lock
+package-lock.json

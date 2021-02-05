@@ -15,7 +15,6 @@ It's possibly mistakes.
 ## :book: Rule Details
 
 This rule reports duplicate attributes.
-`s-bind:foo` directives are handled as the attributes `foo`.
 
 <eslint-code-block :rules="{'san/no-duplicate-attributes': ['error']}">
 
